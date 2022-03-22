@@ -1,4 +1,4 @@
-#  联系方式选项
+#  Contact options
 
 -
   type: github
@@ -9,7 +9,7 @@
 -
   type: email
   icon: 'iconfont icon-mail'
-  noblank: true            # 在当前页面打开链接
+  noblank: true            # Open link on current page
 -
   type: rss
   icon: 'iconfont icon-rss'

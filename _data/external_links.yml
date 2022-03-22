@@ -1,18 +1,18 @@
 -
-  icon: https://img.shields.io/badge/link-996.icu-red.svg
-  # 是否使用 Iconfont 的图标字体
+  icon: https://img.shields.io/badge/link-slow_science-red.svg
+  # Whether to use Iconfont's icon font
   use_iconfont: false
-  name: 996.icu
-  # 为 true 时当且仅当图片无法加载时，使用名字替代。为 false 时始终显示名字。
+  name: slow-science.org
+  # When true, use the name instead if and only if the image cannot be loaded. When false, always display the first name.
   automatic_name: true
-  link: https://996.icu
+  link: http://slow-science.org/
 -
   icon: icon-nihil-github
   use_iconfont: true
-  name: 此博客的 Github 仓库
+  name: Github repository for this blog
   automatic_name: false
-  link: https://github.com/NichtsHsu/nichtshsu.github.io
-# 在下面添加更多外部链接
+  link: https://github.com/sudomaze/sudomaze.github.io
+# add more external links below
 # -
 #   icon: 
 #   use_iconfont:

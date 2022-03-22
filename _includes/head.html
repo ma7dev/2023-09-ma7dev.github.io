@@ -93,6 +93,14 @@
     {% endif %}
   {% endif %}
 
+  {% if page.layout == 'page' or page.layout == 'post' %}
+    <!-- image lazy-loading & popup & clipboard -->
+    {% assign _urls = site.data.assets[origin].katex.js
+        | append: ',' | append: site.data.assets[origin].pseudocode.js
+    %}
+
+    {% include jsdelivr-combine.html urls=_urls %}
+  {% endif %}
   <!-- Bootstrap -->
   <link rel="stylesheet" href="{{ site.data.assets[origin].bootstrap.css }}">
 
@@ -118,6 +126,10 @@
   {% if page.layout == 'page' or page.layout == 'post' %}
     <!-- Manific Popup -->
     <link rel="stylesheet" href="{{ site.data.assets[origin].magnific-popup.css }}">
+    <!-- katex -->
+    <link rel="stylesheet" href="{{ site.data.assets[origin].katex.css }}">
+    <!-- pseudocode -->
+    <link rel="stylesheet" href="{{ site.data.assets[origin].pseudocode.css }}">
   {% endif %}
 
   <!-- JavaScript -->

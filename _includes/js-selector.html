@@ -64,7 +64,7 @@
 
 {% if page.math %}
   <!-- MathJax -->
-  <script>
+  {%- comment -%} <script>
   /* see: <https://docs.mathjax.org/en/latest/options/input/tex.html#tex-options> */
   MathJax = {
     tex: {
@@ -78,7 +78,16 @@
       ]
     }
   };
-  </script>
+  </script> {%- endcomment -%}
+<!-- configuring mathjax -->
+<script async type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        processEscapes: true
+        }
+    });
+</script>
   <script src="{{ site.data.assets[origin].polyfill.js }}"></script>
   <script id="MathJax-script" async src="{{ site.data.assets[origin].mathjax.js }}">
   </script>

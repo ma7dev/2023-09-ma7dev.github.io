@@ -1,14 +1,14 @@
-#  帖子底部的分享选项。
+#  Share options at the bottom of the post.
 
 platforms:
   -
     type: Twitter
     icon: "iconfont icon-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
-  -
-    type: Line
-    icon: "iconfont icon-13"
-    link: "https://lineit.line.me/share/ui?url=URL&text=TITLE"
+  # -
+  #   type: Line
+  #   icon: "iconfont icon-13"
+  #   link: "https://lineit.line.me/share/ui?url=URL&text=TITLE"
   -
     type: Facebook
     icon: "iconfont icon-facebook"
@@ -17,15 +17,15 @@ platforms:
     type: Telegram
     icon: "iconfont icon-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
-  -
-    type: QQ
-    icon: "iconfont icon-QQ"
-    link: "http://connect.qq.com/widget/shareqq/index.html?url=URL&title=TITLE"
-  -
-    type: QQ 空间
-    icon: "iconfont icon-qzone"
-    link: "https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=URL&title=TITLE"
-  -
-    type: 微博
-    icon: "iconfont icon-weibo"
-    link: "http://service.weibo.com/share/share.php?title=TITLE&url=URL"
+  # -
+  #   type: QQ
+  #   icon: "iconfont icon-QQ"
+  #   link: "http://connect.qq.com/widget/shareqq/index.html?url=URL&title=TITLE"
+  # -
+  #   type: QQ 空间
+  #   icon: "iconfont icon-qzone"
+  #   link: "https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=URL&title=TITLE"
+  # -
+  #   type: 微博
+  #   icon: "iconfont icon-weibo"
+  #   link: "http://service.weibo.com/share/share.php?title=TITLE&url=URL"

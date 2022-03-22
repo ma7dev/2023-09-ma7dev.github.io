@@ -1,42 +1,44 @@
-基于 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 主题定制化的个人博客，[点击此处进入](https://nihil.cc/)。
+Credit: [NichtsHsu](https://github.com/NichtsHsu
+)
+Personal blog based on [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme customization, [click here to enter](https://nihil.cc/).
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-与原版 Chirpy 不同的点：
+Differences from the original Chirpy:
 
-* 在原版支持的评论系统 [Disqus](https://disqus.com/)，[Utterances](https://utteranc.es/) 和 [Giscus](https://giscus.app/zh-CN) 外，增加对 [Valine](https://valine.js.org/) / [Waline](https://waline.js.org/) 评论系统的支持，参见 `_config.yml` 里的 `comments` 以及各自的配置段。建议考虑使用 Waline 而不是 Valine。
-* 使用[知乎式 404 界面](https://404.life/564.html)，可以返回首页或者返回上一页。
-* 新增了分享到 Line，QQ，QQ 空间和微博，参见 `_data/share.yml`。
-* 使用 [iconfont](https://www.iconfont.cn/) 取代 [Font Awesome](https://fontawesome.com/)，有更多的图标选择空间，参见 `_config.yml` 里的 `iconfont_css`。
-* 右侧边栏添加了外部链接块，参见 `_data/external_links.yml`。
-* 可以自由地控制在帖子中显示右侧边栏哪些块。参见 `_config.yml` 里的 `panel`。
-* 添加了子域页。参见 `_data/subdomain.yml`。不需要该页面的情况下删除 `_tabs/subdomain.md` 即可。
-* 添加了 `<details>` 标签的样式，同时修改了 blockquote 的样式。
-* 使用改自 [`just the docs`](https://github.com/pmarsceill/just-the-docs) 的表格样式。
-* 将代码染色应用到了行内代码段，例如 `` `let fuck_rust = 114514;`{:.language-rust} ``。
-* 使用 [Fira Code](https://github.com/tonsky/FiraCode) 作为代码段字体。默认对行内代码不开启连体（Ligature），对块代码开启。因为某些原因，在 shell 语言中禁用连体。
-* 暗色主题时，标题和加粗内容在白色文字之中难以区分，增加发光效果以突出显示。
-* 可以配置高亮代码段中的某些行，参考[此处](http://nihil.cc/posts/highlight_lines_for_jekyll/#%E4%BE%8B%E5%AD%90)。
-* 运行代码显示输出结果（开发中，目前支持部分语言），需要在代码段的下一行添加 `{: run="lang" }`，例如：
+* On the original supported commenting systems [Disqus](https://disqus.com/), [Utterances](https://utteranc.es/) and [Giscus](https://giscus.app/zh-CN ), add support for [Valine](https://valine.js.org/) / [Waline](https://waline.js.org/) comment system, see `_config.yml` comments` and their respective configuration sections. It is recommended to consider using Waline instead of Valine.
+* Using [Zhihu-style 404 interface](https://404.life/564.html), you can return to the home page or return to the previous page.
+* Added sharing to Line, QQ, Qzone and Weibo, see `_data/share.yml`.
+* Use [iconfont](https://www.iconfont.cn/) instead of [Font Awesome](https://fontawesome.com/), there are more icon options, see `_config.yml` iconfont_css`.
+* Added external links block to the right sidebar, see `_data/external_links.yml`.
+* Freely control which blocks are displayed on the right sidebar in the post. See `panel` in `_config.yml`.
+* Added subdomain page. See `_data/subdomain.yml`. Just delete `_tabs/subdomain.md` if you don't need this page.
+* Added the style of `<details>` tag and modified the style of blockquote.
+* Use table styles adapted from [`just the docs`](https://github.com/pmarsceill/just-the-docs).
+* Applied code coloring to inline code segments, e.g. `` `let fuck_rust = 114514;`{:.language-rust} ``.
+* Use [Fira Code](https://github.com/tonsky/FiraCode) as the code snippet font. By default, Ligature is not enabled for inline code, but is enabled for block code. Siamese is disabled in shell languages ​​for some reason.
+* In the dark theme, the title and bold content are indistinguishable in the white text, and the glow effect is added to highlight it.
+* Can configure to highlight certain lines in the code segment, refer to [here](http://nihil.cc/posts/highlight_lines_for_jekyll/#%E4%BE%8B%E5%AD%90).
+* To run the code to display the output (under development, some languages ​​are currently supported), you need to add `{: run="lang" }` to the next line of the code segment, for example:
 
     ````markdown
     ```rust
     fn main() {
         println!("hello world");
     }
-    ```
+    ````
     {: run="rust" }
     ````
 
-    语言支持情况：
-    | 已支持的语言 | `run="lang"` 参数 | 后端 |
+    Language support:
+    | Supported languages ​​| `run="lang"` parameter | backend |
     | :-: | :-: | :-: |
     | C++ | `run="cpp"` | [Coliru](https://coliru.stacked-crooked.com/) |
-    | JavaScript | `run="javascript"` | N/A (本地) |
+    | JavaScript | `run="javascript"` | N/A (local) |
     | Rust | `run="rust"` | [Rust Playground](https://play.rust-lang.org/) |
 
-如果喜欢我这个定制化的版本，欢迎 Fork，但是请修改 `_config.yml` 中 `google_analytics` 的 `id`， `waline` 的 `server`，以及 `CNAME` 文件中配置的域名，请勿使用我的配置。
+If you like my customized version, welcome to Fork, but please modify the `id` of `google_analytics` in `_config.yml`, the `server` of `waline`, and the domain name configured in the `CNAME` file, please do not use my configuration.
 
-通常，每周会至少 merge 一次 [`upstream/master`](https://github.com/cotes2020/jekyll-theme-chirpy) 以追踪新的功能。
+Typically, [`upstream/master`](https://github.com/cotes2020/jekyll-theme-chirpy) is merged at least once a week to track new features.
 
-原版本的 Chirpy 也会在 [original-chirpy](https://github.com/NichtsHsu/nichtshsu.github.io/tree/original-chirpy) 分支保持同步。
+The original version of Chirpy will also be kept in sync in the [original-chirpy](https://github.com/NichtsHsu/nichtshsu.github.io/tree/original-chirpy) branch.

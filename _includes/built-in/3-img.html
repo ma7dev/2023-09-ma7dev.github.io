@@ -1,0 +1,8 @@
+<div style="width:100%;">
+    <img loading=lazy style="width:33%" src="{{ include.url1 }}" alt="{{ include.caption1 }}">
+    <img loading=lazy style="width:33%" src="{{ include.url2 }}" alt="{{ include.caption2 }}">
+    <img loading=lazy style="width:33%" src="{{ include.url3 }}" alt="{{ include.caption3 }}">
+</div>
+<figure id="img-{{ include.id }}" style="text-align:center">
+	<figcaption><p><strong>Figure {{ include.id }}:</strong> {{ include.caption1 }}, {{ include.caption2 }}, and {{ include.caption3 }}</p></figcaption>
+</figure>

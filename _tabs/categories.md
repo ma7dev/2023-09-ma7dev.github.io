@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: 分类
+title: Categories
 icon: iconfont icon-stream
 order: 2
 ---

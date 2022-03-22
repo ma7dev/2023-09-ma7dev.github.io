@@ -25,9 +25,14 @@
           <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a>
         {% endcapture %}
 
+        {% capture _fork %}
+          <a href="https://github.com/nichtshsu/nichtshsu.github.io" target="_blank" rel="noopener">nichtshsu</a>
+          {%- comment -%} <a href="https://github.com/sudomaze/sudomaze.github.io" target="_blank" rel="noopener">sudomaze</a> {%- endcomment -%}
+        {% endcapture %}
+
         {{ site.data.locales[lang].meta
-          | default: 'Powered by :PLATFORM with :THEME theme.'
-          | replace: ':PLATFORM', _platform | replace: ':THEME', _theme
+          | default: "Powered by :PLATFORM with :THEME theme (fork: :FORK)."
+          | replace: ':PLATFORM', _platform | replace: ':THEME', _theme | replace: ':FORK', _fork
         }}
 
       </p>
