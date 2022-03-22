@@ -1,6 +1,5 @@
 {% comment %} Site static assets origin {% endcomment %}
-{%- comment -%} {% assign origin = 'cross_origin' %} {%- endcomment -%}
-{% assign origin = 'self_host' %}
+{% assign origin = 'cross_origin' %}
 
 {% if site.assets.self_host.enabled %}
   {% if site.assets.self_host.env %}

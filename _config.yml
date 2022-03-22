@@ -148,10 +148,10 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled:  true    # boolean, leave empty to indicate no
+    enabled:  false    # boolean, leave empty to indicate no
     # Specify the Jekyll environment, empty means both are enabled
     # Only takes effect when `assets.self_host.enabled` is 'true'
-    env: development         # [development|production]
+    env:         # [development|production]
 
 # number of posts per page
 paginate: 10
