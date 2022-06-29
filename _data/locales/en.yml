@@ -15,7 +15,7 @@ tabs:
   categories: Categories
   tags: Tags
   archives: Archives
-  about: About
+  whoami: whoami
 
 # the text displayed in the search bar & search results
 search:

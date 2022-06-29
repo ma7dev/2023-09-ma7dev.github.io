@@ -1,7 +1,7 @@
 ---
 title: "Linux vs. FreeBSD vs. Windows"
-categories: [OS]
-tags: [os] # TAG names should always be lowercase
+categories: [OS, Analysis]
+tags: [linux, freebsd, windows] # TAG names should always be lowercase
 math: false
 ---
 
@@ -33,7 +33,7 @@ int main( )
 {
     pid_t child_pid;
     child_pid = fork ( );                                    // Create a new child process;
-    if (child_pid >= 0)                         
+    if (child_pid >= 0)
     {
         if (child_pid == 0)
         {
@@ -83,7 +83,7 @@ void _tmain( int argc, TCHAR *argv[] )
         printf("Usage: %s [cmdline]\n", argv[0]);
         return;
     }
-    // Start the child process. 
+    // Start the child process.
     if( !CreateProcess( NULL,   // No module name (use command line)
         argv[1],        // Command line
         NULL,           // Process handle not inheritable
@@ -94,7 +94,7 @@ void _tmain( int argc, TCHAR *argv[] )
         NULL,           // Use parent's starting directory
         &si,            // Pointer to STARTUPINFO structure
         &pi )           // Pointer to PROCESS_INFORMATION structure
-    ) 
+    )
     {
         printf( "CreateProcess failed (%d).\n", GetLastError() );
         return;

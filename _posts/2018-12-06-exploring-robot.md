@@ -1,6 +1,6 @@
 ---
 title: "[Project] Exploring Robot"
-categories: [Project, Robots]
+categories: [Projects, Robots]
 tags: [robots, project] # TAG names should always be lowercase
 math: true
 ---
@@ -64,7 +64,7 @@ From the nav_bundle package, we are using the waypoint commands: twist, base_lin
 
 ### Discussion of your waypoint allocation algorithm
 
-Waypoints are generated procedurally using an 61x61 filter that scans the frontier points on the occupancy grid. The robot's exploration policy defines frontier points as being known unoccupied locations where the robot would end near unknown locations. This filter only selects points that are centered on an explored point, have no obstacles within a specified distance from the center, have a threshold percentage of unexplored cells, and aren't where the robot has been before. These cells are then weighted by the percentage of unknown cells and euclidean distance from the robot. It then uses an A* algorithm to determine if there is a known path from the current location to the candidate location. Validating the path allows the robot to exclude candidate points that would be outside of the map or within obstacles. 
+Waypoints are generated procedurally using an 61x61 filter that scans the frontier points on the occupancy grid. The robot's exploration policy defines frontier points as being known unoccupied locations where the robot would end near unknown locations. This filter only selects points that are centered on an explored point, have no obstacles within a specified distance from the center, have a threshold percentage of unexplored cells, and aren't where the robot has been before. These cells are then weighted by the percentage of unknown cells and euclidean distance from the robot. It then uses an A* algorithm to determine if there is a known path from the current location to the candidate location. Validating the path allows the robot to exclude candidate points that would be outside of the map or within obstacles.
 
 If the robot enters a region that was unexplored when the waypoint was *created*, it will clear the waypoint queue, cancel the current waypoint, turn 360 degrees, back up 1.5m, and generate a new waypoint. With the current implementation of the nav_bundle, the robot can select paths that pass through unknown locations. If the robot then passes though the unknown location and discovers that there is a wall blocking the path, the robot will not reroute in order to find the proper path. Instead, the robot will simply crash into the wall. To prevent incorrect path planning through unknown locations, we save how the map looked when the nav_bundle chose that path, and tell the robot to stop and reroute if we reach a location that was previously unknown, making our robot's path robust to new information.
 
@@ -98,9 +98,9 @@ If the robot enters a region that was unexplored when the waypoint was *created*
     \If {$skip == true$}
         \State \textbf{continue}
     \EndIf
-    
+
     \State $cell\_sum \gets \text{sum(all cells within } window\_size/2 \text{ from } center\_cell \text{)}$
-	
+
 	\State $potential\_candidates\text{.append(}center\_cell\text{)}$
 \EndFor
 
@@ -144,14 +144,14 @@ The algorithm tended to get the robot stuck in one area, ensuring that every cel
 {% include built-in/3-img.html id="1"
     url1="/assets/img/exploring-robot/randomdots.png" caption1="Random Dots Map"
     url2="/assets/img/exploring-robot/TheOffice.png" caption2="The Office Map"
-    url3="/assets/img/exploring-robot/maze.png" caption3="The Maze Map" 
+    url3="/assets/img/exploring-robot/maze.png" caption3="The Maze Map"
 %}
 
 This algorithm resulted in full exploration of the robot's environment with a reasonable success rate. The many dots map was the first map that the robot completed, it completed the map in around 20 minutes. Euclidean distance in this map is an accurate way to approximate path distance since the map isn't divided into rooms, making it an ideal scenario for this algorithm. The office map saw completion times of around 22 minutes. This was largely due to the euclidean distance heuristic that had the robot fully explore each room before moving on. This algorithm struggled with the maze file since it had a habit of setting waypoint on the other side of a wall making it drive back and forth around the entire map, making little but steady progress.
 
 #### Provide suggestions on how your waypoint allocation algorithm could be improved.
 
-The algorithm should use an A* search in order to find the nearest waypoints instead of using euclidean distance. This should make the exploration time faster since it would travel through fully explored areas less often in order to reach new locations. Computationally expensive functions (such as A*) could be rewritten in C++ in order to cut down on computational cost. The robot's policy for getting unstuck could also be improved. Currently we assume that the robot gets stuck, it is facing a wall and can therefor get unstuck by backing up enough. However, it is not always the case that the wall is in front of the robot, and backing up could end up moving the robot into a wall. Instead, a better policy would be to turn and move away from the closest wall whenever the robot is stuck. 
+The algorithm should use an A* search in order to find the nearest waypoints instead of using euclidean distance. This should make the exploration time faster since it would travel through fully explored areas less often in order to reach new locations. Computationally expensive functions (such as A*) could be rewritten in C++ in order to cut down on computational cost. The robot's policy for getting unstuck could also be improved. Currently we assume that the robot gets stuck, it is facing a wall and can therefor get unstuck by backing up enough. However, it is not always the case that the wall is in front of the robot, and backing up could end up moving the robot into a wall. Instead, a better policy would be to turn and move away from the closest wall whenever the robot is stuck.
 
 ## Setup
 * Download the file ([source code](https://github.com/sudomaze/exploring-robot))

@@ -1,6 +1,6 @@
 ---
 title: "How I Learn"
-categories: [productivity]
+categories: [Productivity, Learning]
 tags: [learn, tools] # TAG names should always be lowercase
 ---
 

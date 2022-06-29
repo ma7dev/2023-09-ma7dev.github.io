@@ -60,13 +60,13 @@ google_site_verification:       # fill in your verification string
 #
 # Note: Please do not have the same name as the icon originally used by the project, please search globally to ensure that the name is not used.
 # A better way is to modify the FontClass/Symbol prefix of the Iconfont project to another value.
-iconfont_css: 
+iconfont_css:
   # This css contains icons prefixed with 'icon-', which are the core icons of the template, do not delete.
   - //at.alicdn.com/t/font_2440352_86vrobdp9vu.css
   # This css contains icons prefixed with 'icon-nihil-', the icons used for my blog content, which can be removed.
   - //at.alicdn.com/t/font_2451185_tgvgeuen2lh.css
   # Add your Iconfont icon link
-  # - 
+  # -
 
 google_analytics:
   id: 'G-RK9LRGVP0T'              # Fill in your Google Analytics ID
@@ -129,7 +129,7 @@ comments:
     leancloud_appid:    # Enter your LeanCloud App ID
     leancloud_appkey:   # Enter your LeanCloud App Key
     placeholder: "Say something! PS: Enter the QQ number in the nickname column to automatically obtain the QQ nickname and QQ avatar~" # Text displayed when the comment box is blank
-    avatar: mp          # default avatar › https://valine.js.org/avatar.html 
+    avatar: mp          # default avatar › https://valine.js.org/avatar.html
   # Waline comment system is an improved version of Valine, with a backend and more secure. › https://waline.js.org/
   waline:
     server: https://myblog-comments.vercel.app/    # Vercal server address
