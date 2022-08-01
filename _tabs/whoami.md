@@ -158,8 +158,10 @@ Courses completed:
 
 ## My Reading List
 
-### 2021
+### 2022
+**---PENDING---**
 
+<!--
 2. [ ] [A PhD Is Not Enough!: A Guide to Survival in Science](https://www.amazon.com/gp/product/0465022227/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Peter J. Feibelman (in-process)
 3. [ ] [Mastery](https://www.amazon.com/gp/product/014312417X/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Robert Greene (in-process)
 4. [ ] [How to Read a Book: The Classic Guide to Intelligent Reading](https://www.amazon.com/gp/product/0671212095/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Mortimer J. Adler and Charles Van Doren (in-process)
@@ -175,7 +177,7 @@ Courses completed:
 
 1. [ ] [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/gp/product/0465026567/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Douglas R. Hofstadter
 1. [ ] [Mathematics for the Nonmathematician](https://www.amazon.com/gp/product/0486248232/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Morris Kline
-1. [ ] [The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition)](https://www.amazon.com/gp/product/0060555661/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Benjamin Graham and Jason Zweig
+1. [ ] [The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition)](https://www.amazon.com/gp/product/0060555661/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Benjamin Graham and Jason Zweig -->
 
 ### Previously Read
 
