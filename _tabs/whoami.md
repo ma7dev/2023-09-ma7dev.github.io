@@ -6,84 +6,80 @@ order: 5
 
 ## Background
 
-Currently, Mazen is an M.S. student under the supervision of [Prof. Fuxin Li](http://web.engr.oregonstate.edu/~lif/) at Deep Machine Vision (DMV) in Oregon State University (OSU). He worked at [the Center for Genome Research & Bio-computing](https://cgrb.oregonstate.edu/) (CGRB) as a Computational Data Scientist. He graduated from Oregon State University with a Bachelor of Science (B.S.) degree in Computer Science Applied in Artificial Intelligence; with a minor in Actuarial Science. He worked at CGRB as a Lead GPU Computational Researcher during his senior year at OSU. He was the Vice-President of OSU ML/AI Club (known as [OSU AI Club](https://osuai.club) now) for 2017-2018 & 2018-2019.
+Currently, Mazen is a Faculty Research Assistant working on Machine Common Sense project supervised by [Dr. Alan Fern](https://eecs.oregonstate.edu/people/fern-alan). He graduated with a Masters of Science (MSc) in Artificial Intelligence under the supervision of [Dr. Fuxin Li](http://web.engr.oregonstate.edu/~lif/) at Deep Machine Vision (DMV) in Oregon State University (OSU). He worked at [the Center for Genome Research & Bio-computing](https://cgrb.oregonstate.edu/) (CGRB) as a Data Scientist. He graduated from Oregon State University with a Bachelor of Science (BSc) degree in Computer Science Applied in Artificial Intelligence; with a minor in Actuarial Science. He worked at CGRB as a Lead GPU Computational Researcher during his senior year at OSU. He was the Vice-President of OSU ML/AI Club (known as [OSU AI Club](https://osuai.club) now) for 2017-2018 & 2018-2019.
 
 ## Contacts
 
-* Twitter: [@sudomaze](https://twitter.com/sudomaze){:target="_blank"}
 * Github: [sudomaze](https://github.com/sudomaze){:target="_blank"}
 * LinkedIn: [Mazen Alotaibi](https://linkedin.com/in/sudomaze){:target="_blank"}
 * Gmail: <mailto:sudomaze@gmail.com>
 * Discord: sudomaze#0001
 
-## Grad school work/studies
+## Grduate School Experience and Studies
 
-Teaching/Research Assistant:
+### Teaching/Research Assistant
 - 2021-2022:
-  - Spring: **Lead TA** - *ENGINEERING COMPUTATION AND ALGORITHMIC THINKING (ENGR 103)*
-  - Winter: **TA** - *COMPUTER NETWORKING (CS 372) & GRAPH THEORY AND ITS APPLICATIONS (CS 420/520)*
-  - Fall: **RA** - *Common Sense project supervised by Dr. Alan Fern*
+  - Summer: **Research Assistant** - *Machine Common Sense project*
+  - Spring:
+    - **Lead Teaching Assistant** - *Engineering Computation and Algorithmic Thinking (ENGR 103)*
+    - **Research Assistant** - *Machine Common Sense project*
+  - Winter: **Teaching Assistant** - *Computer Networking (CS 372) & Graph Theory and Its Applications (CS 420/520)*
+  - Fall: **Research Assistant** - *Machine Common Sense project*
 - 2020-2021:
-  - Summer: **RA** - *Common Sense project supervised by Dr. Alan Fern*
-  - Spring: **TA** - *COMPUTER NETWORKING (CS 372)*
-  - Winter: **TA** - *ANALYSIS OF ALGORITHMS (CS 325)*
-  - Fall: **TA** - *INTRODUCTION TO DATABASES (CS 340)*
+  - Summer: **Research Assistant** - *Machine Common Sense project*
+  - Spring: **Teaching Assistant** - *Computer Networking (CS 372)*
+  - Winter: **Teaching Assistant** - *Analysis of Algorithms (CS 325)*
+  - Fall: **Teaching Assistant** - *Introduction to Databases (CS 340)*
 
-Courses completed:
+### Courses Completed
 - 2021-2022:
   - Spring
-    - SOCIAL AND ETHICAL ISSUES IN ARTIFICIAL INTELLIGENCE (PHL 546)
+    - Social and Ethical Issues in Artificial Intelligence (PHL 546)
   - Winter
-    - SPECIAL TOPICS: ST/MACHINE LEARNING SECURITY (CS 599)
-    - ALGORITHMS AND DATA STRUCTURES (CS 515)
+    - Machine Learning Security (CS 599)
+    - Algorithms and Data Structures (CS 515)
   - Fall
-    - THESIS & DISSERTATION WRITING (WR 573)
-    - BIG IDEAS IN AI (AI 530)
+    - Thesis & Dissertation Writing (WR 573)
+    - Big Ideas in Artificial Intelligence (AI 530)
 - 2020-2021:
   - Spring
-    - DEEP LEARNING (CS 535)
-    - INTELLIGENT AGENTS AND DECISION MAKING (CS 533)
+    - Deep Learning (CS 535)
+    - Intelligent Agents and Decision Making (CS 533)
   - Winter
-    - ST/ARTIFICIAL INTELLIGENCE: ST/NAT LANG PROC W/ DP LEARNIN (CS 539)
-    - SPECIAL TOPICS: ST/MATRIX ANSYS SIG PROC & MAC (ECE 599)
+    - Natural Language Processing with Deep Learning (CS 539)
+    - Matrix Analysis, Signal Processing, and Machine Learning (ECE 599)
   - Fall
-    - TOPICS IN GRAPHICS AND VISION: ST/ DIGITAL IMAGE PROCESSING (CS 559)
-    - CONVEX OPTIMIZATION (ECE 599)
-    - MACHINE LEARNING (CS 534)
+    - Digital Image Processing (CS 559)
+    - Convex Optimization (ECE 599)
+    - Machine Learning (CS 534)
 
 
 ## Uses This
 
 ### Mailing lists - Alphabetical Order
 
+#### General News
 * [Hacker News Digest](https://www.hndigest.com/): Best way to know about the top things in tech every week.
 * [KDnuggets News](https://www.kdnuggets.com/news/subscribe.html): Shares top articles about Data Science every other day.
 * [The Batch](https://www.deeplearning.ai/thebatch/): Presents the most important AI events and perspective in a curated, easy-to-read report for engineers and business leaders every Wednesday.
+#### Deep Learning Research
 
 ### Podcasts - Alphabetical Order
 
-* [Data Skeptic](https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4): Data Skeptic is your source for a perspective of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science. Our weekly podcast and blog bring you stories and tutorials to help understand our data-driven world.
-* [Lex Fridman Podcast](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL): Conversations about AI, science, technology, history, philosophy and the nature of intelligence, consciousness, love, and power. Formerly called the Artificial Intelligence (AI) podcast. Lex is an AI researcher at MIT and beyond.
-* [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR): Tim Scarfe (Machine Learning Dojo), Connor Shorten (Henry AI Labs), and Yannic Kilcher talk about the latest and greatest in AI every week.
-* [Programming Throwdown](https://open.spotify.com/show/274Z0vXSCYxddYGj2hLJ8r): Programming Throwdown attempts to educate Computer Scientsts and Software Engineers on a cavalcade of programming and tech topics. Every show covers a new programming language, so listeners will be able to speak intelligently about any programming language.
-* [Software Engineering Daily](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N): Technical interviews about software topics.
+#### General
 * [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk): The official podcast of comedian Joe Rogan.
+* [Lex Fridman Podcast](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL): Conversations about AI, science, technology, history, philosophy and the nature of intelligence, consciousness, love, and power. Formerly called the Artificial Intelligence (AI) podcast. Lex is an AI researcher at MIT and beyond.
+
+#### Engineering
+* [Software Engineering Daily](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N): Technical interviews about software topics.
+* [Programming Throwdown](https://open.spotify.com/show/274Z0vXSCYxddYGj2hLJ8r): Programming Throwdown attempts to educate Computer Scientsts and Software Engineers on a cavalcade of programming and tech topics. Every show covers a new programming language, so listeners will be able to speak intelligently about any programming language.
+* [WeAreNetflix](https://open.spotify.com/show/3v8L3oLZrb5fQZHW7cvGMm): Netflix employees talking about work and life at Netflix, hosted by Netflix Senior Software Engineer Lyle Troxell.
+#### Data Science
+* [Data Skeptic](https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4): Data Skeptic is your source for a perspective of scientific skepticism on topics in statistics, machine learning, big data, artificial intelligence, and data science. Our weekly podcast and blog bring you stories and tutorials to help understand our data-driven world.
+#### Deep Learning Research
+* [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR): Tim Scarfe (Machine Learning Dojo), Connor Shorten (Henry AI Labs), and Yannic Kilcher talk about the latest and greatest in AI every week.
 * [The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7): Sam interviews people who are working in industry and academia. Great resource to be aware of what's happening in the world and how smart people solve them.
 * [Underrated ML](https://open.spotify.com/show/3swL0sf5iKlGk00WpeExQ5): Sharing various Machine Learning papers that just haven't got the love and attention they deserve.
-* [WeAreNetflix](https://open.spotify.com/show/3v8L3oLZrb5fQZHW7cvGMm): Netflix employees talking about work and life at Netflix, hosted by Netflix Senior Software Engineer Lyle Troxell.
-
-## Streamers (On Twitch) - Alphabetical Order
-
-* [bufai7an](https://www.twitch.tv/bufai7an): Mohanned, an IT guru, streams programming, creating, and fixing codes.
-* [crashhermit](https://www.twitch.tv/crashhermit): Jon streams his self-learning journey of Mathematics, Economics, Sociology, and Psychology. He uses Anki heavily!
-* [data__love](https://www.twitch.tv/data__love): Rob streams about projects that works on in Elm (a functional programming language for web).
-* [gioggio](https://www.twitch.tv/gioggio): Gio is an M.Eng. in Artificial Intelligence @ University of Bologna. He streams about his projects.
-* [marksaroufim](https://www.twitch.tv/marksaroufim): Mark is a Machine Learning engineer, he have worked at Microsoft and NASA and also founded his own company yuri. His stream is all about software development where he will be streaming hisself learning or programming stuff related to Machine Learning and Game Development with the occasional strategy game stream.
-* [opensourcesblog](https://www.twitch.tv/opensourcesblog): Ole is a Computer Science master student who loves to blog and code in Julia. Also, he streams about Project Euler from 1-100.
-* [rctatman](https://www.twitch.tv/rctatman): Rachael is a senior developer advocate. She does a lot of NLP projects/workshops on stream!
-* [simuleios](https://www.twitch.tv/simuleios): James is a postdoc at MIT and he has an awesome YouTube channel where he show case some cool math and algorithm related content. He streams about his work.
-* [stephen_wolfram](https://www.twitch.tv/stephen_wolfram): Stephen Wolfram is the creator of Mathematica, Wolfram Alpha and the Wolfram Language; the author of A New Kind of Science and other books; the originator of the Wolfram Physics Project; and the founder and CEO of Wolfram Research.
-* [thecedarprince](https://www.twitch.tv/thecedarprince): Jacob is a graduate of Georgia Tech with a background in biomedical engineering, biomedical informatics, and healthcare. Passionate about FOSS, HPC, linear algebra, and learning!
 
 ### Set Up
 
@@ -156,42 +152,6 @@ Courses completed:
 * Password Manager: [LastPass](https://www.lastpass.com/)
 * Calendar: [Google Calendar](https://www.google.com/calendar)
 
-## My Reading List
-
-### 2022
-**---PENDING---**
-
-<!--
-2. [ ] [A PhD Is Not Enough!: A Guide to Survival in Science](https://www.amazon.com/gp/product/0465022227/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Peter J. Feibelman (in-process)
-3. [ ] [Mastery](https://www.amazon.com/gp/product/014312417X/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Robert Greene (in-process)
-4. [ ] [How to Read a Book: The Classic Guide to Intelligent Reading](https://www.amazon.com/gp/product/0671212095/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Mortimer J. Adler and Charles Van Doren (in-process)
-5. [ ] [Genius At Play: The Curious Mind of John Horton Conway](https://www.amazon.com/gp/product/1620405954/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) by Siobhan Roberts
-6. [ ] [Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)](https://www.amazon.com/gp/product/0393316041/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Richard P. Feynman and Ralph Leighton
-7. [ ] [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.amazon.com/gp/product/1501144324/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Matthew Walker PhD
-8. [ ] [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal](https://www.amazon.com/gp/product/0743226755/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Jim Loehr and Tony Schwartz
-9. [ ] [Astrophysics for People in a Hurry](https://www.amazon.com/gp/product/0393609391/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Neil deGrasse Tyson
-10. [ ] [Confident Data Skills: Master the Fundamentals of Working with Data and Supercharge Your Career (Confident Series)](https://www.amazon.com/gp/product/0749481544/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Kirill Eremenko
-11. [ ] [Principles of Data Science: Learn the techniques and math you need to start making sense of your data](https://www.amazon.com/gp/product/1785887912/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Sinan Ozdemir
-
-### Long-readings
-
-1. [ ] [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/gp/product/0465026567/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Douglas R. Hofstadter
-1. [ ] [Mathematics for the Nonmathematician](https://www.amazon.com/gp/product/0486248232/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Morris Kline
-1. [ ] [The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition)](https://www.amazon.com/gp/product/0060555661/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Benjamin Graham and Jason Zweig -->
-
-### Previously Read
-
-1. [x] [Soccermatics: Mathematical Adventures in the Beautiful Game](https://www.amazon.com/gp/product/1472924142/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) by David Sumpter
-1. [x] [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.amazon.com/gp/product/1544512287/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by David Goggins
-1. [x] [Rewire: Change Your Brain to Break Bad Habits, Overcome Addictions, Conquer Self-Destruc tive Behavior](https://www.amazon.com/gp/product/0147516323/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Richard O'Connor
-1. [x] [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/gp/product/1627790365/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Brian Christian and Tom Griffiths
-1. [x] [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.amazon.com/gp/product/B00C1BHQXK/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Gary Keller and Jay Papasan
-1. [x] [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/gp/product/0143126563/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by David Allen
-1. [x] [Einstein: His Life and Universe](https://www.amazon.com/gp/product/B000PC0S0K/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Walter Isaacson
-1. [x] [Gifted Hands 20th Anniversary Edition: The Ben Carson Story](https://www.amazon.com/gp/product/B004R1PVR0/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Ben Carson M.D.
-1. [x] [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.amazon.com/gp/product/1451639619/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) by Stephen R. Covey
-
-
 ## List 100
 
 Things Mazen wants to do before he dies. Please let him know if you have any recommendations. Inspired by [Chip Huyen](https://huyenchip.com/).
@@ -199,13 +159,13 @@ Things Mazen wants to do before he dies. Please let him know if you have any rec
 1. [x] Live in another country (US)
 2. [x] Get an affiliation on Twitch
 3. [x] Become one of the authors of a paper at a top-tier conference
-4. [ ] Get a Masters Degree (in-process)
-5. [ ] Become the first author of a paper at a top-tier conference
-6. [ ] Publish more than 25 posts
-7. [ ] Publish a Python package
+4. [x] Get a Masters Degree
+5. [x] Publish a Python package
+6. [ ] Become the first author of a paper at a top-tier conference (in-process)
+7. [ ] Publish more than 25 posts
 8. [ ] Publish an NPM package
 9. [ ] Get a PhD Degree
-10. [ ] Work as a scientist in any of the FAANG companies
+10.  [ ] Work as a scientist in any of the FAANG companies
 11. [ ] Live in a different country for over 2 years (other than US).
 12. [ ] Be fluent in other language.
 13. [ ] Teach a course
