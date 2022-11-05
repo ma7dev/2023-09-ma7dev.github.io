@@ -12,6 +12,8 @@ Currently, Mazen is a Faculty Research Assistant working on Machine Common Sense
 
 * Github: [sudomaze](https://github.com/sudomaze){:target="_blank"}
 * LinkedIn: [Mazen Alotaibi](https://linkedin.com/in/sudomaze){:target="_blank"}
+* goodreads: [sudomaze](https://goodreads.com/sudomaze){:target="_blank"}
+* MyAnimeList: [sudomaze](https://myanimelist.net/profile/sudomaze){:target="_blank"}
 * Gmail: <mailto:sudomaze@gmail.com>
 * Discord: sudomaze#0001
 

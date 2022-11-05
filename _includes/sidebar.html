@@ -59,7 +59,7 @@
       </button>
 
       {% if site.data.contact.size > 0 %}
-        <span class="icon-border"></span>
+        <span class="icon-border"><br></span>
       {% endif %}
     {% endunless %}
 
@@ -67,8 +67,14 @@
     {% capture url %}
     {%- if entry.type == 'github' -%}
     https://github.com/{{ site.github.username }}
+    {%- elsif entry.type == 'linkedin' -%}
+    https://linkedin.com/in/{{ site.linkedin.username }}
     {%- elsif entry.type == 'twitter' -%}
     https://twitter.com/{{ site.twitter.username }}
+    {%- elsif entry.type == 'myanimelist' -%}
+    https://myanimelist.net/profile/{{ site.myanimelist.username }}
+    {%- elsif entry.type == 'goodreads' -%}
+    https://goodreads.com/{{ site.myanimelist.username }}
     {%- elsif entry.type == 'email' -%}
     {% assign email = site.social.email | split: '@' %}
     javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
@@ -82,7 +88,11 @@
       {% if url %}
       <a href="{{ url }}" aria-label="{{ entry.type }}"
         {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
-        <i class="{{ entry.icon }}"></i>
+        {% if entry.icon %}
+          <i class="{{ entry.icon }}"></i>
+        {% elsif entry.svg %}
+          <i>{{ entry.svg }}</i>
+        {% endif %}
       </a>
       {% endif %}
 

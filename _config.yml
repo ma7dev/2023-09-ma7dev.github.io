@@ -32,11 +32,18 @@ url: 'https://sudomaze.dev'
 author: Mazen Alotaibi    # full name
 
 github:
+  username: sudomaze
+
+linkedin:
   username: sudomaze     # Github username
 
 # twitter:
 #   username: sudomaze       # Twitter username
+myanimelist:
+  username: sudomaze
 
+goodreads:
+  username: sudomaze
 social:
   name: Mazen Alotaibi                  # will appear as the copyright holder in the footer
   email: sudomaze@gmail.com             # email address
@@ -47,7 +54,7 @@ social:
     - https://github.com/sudomaze       # Github homepage
     # uncomment to add more links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/sudomaze
 
 google_site_verification:       # fill in your verification string
 
