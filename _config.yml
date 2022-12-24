@@ -39,7 +39,12 @@ linkedin:
 
 # twitter:
 #   username: sudomaze       # Twitter username
-myanimelist:
+
+# myanimelist:
+#   username: sudomaze
+
+# I am using simple.ink to redirect to my Notion page for my weekly logs
+weeklylogs:
   username: sudomaze
 
 goodreads:
