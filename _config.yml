@@ -43,7 +43,7 @@ linkedin:
 # myanimelist:
 #   username: sudomaze
 
-# I am using simple.ink to redirect to my Notion page for my weekly logs
+# I am using Notion page for my weekly logs
 weeklylogs:
   username: sudomaze
 
