@@ -78,7 +78,7 @@ iconfont_css:
   # This css contains icons prefixed with 'icon-nihil-', the icons used for my blog content, which can be removed.
   - //at.alicdn.com/t/font_2451185_tgvgeuen2lh.css
   # Add your Iconfont icon link
-  # -
+  - //cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css
 
 google_analytics:
   id: 'G-RK9LRGVP0T'              # Fill in your Google Analytics ID
