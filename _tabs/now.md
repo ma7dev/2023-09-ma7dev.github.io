@@ -6,7 +6,9 @@ icon: bi bi-cone-striped
 order: 4
 ---
 
+## tl;dr
 
-<img src="https://media1.giphy.com/media/fVeAI9dyD5ssIFyOyM/giphy.gif?cid=ecf05e4748wgae5cn0f5wcs1anttvjmy43y2a6zlrba63dd9&rid=giphy.gif&ct=g">
+I work as a Faculty Research Assistant at Oregon State University under the supervision of Professor Alan Fern. I am working on Machine Common Sense Reasoning. In my free time, I like
+to spend my time at the gym or reading books about AI, reasoning, philosophy, or software engineering.
 
-I am working on it.
+*This page was inspired by [Gergely Orosz' page](https://blog.pragmaticengineer.com/scoop/)*

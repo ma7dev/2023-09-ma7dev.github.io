@@ -17,3 +17,6 @@ order: 4
 
 * On LinkedIn, [sending a message](https://linkedin.com/in/sudomaze){:target="_blank"}
 * Over e-mail at **sudomaze**(at)**gmail**(dot)**com**
+
+
+*This page was inspired by [Gergely Orosz' page](https://blog.pragmaticengineer.com/scoop/)*
