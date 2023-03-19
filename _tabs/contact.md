@@ -10,6 +10,7 @@ order: 4
 
 * Github: [sudomaze](https://github.com/sudomaze){:target="_blank"}
 * LinkedIn: [Mazen Alotaibi](https://linkedin.com/in/sudomaze){:target="_blank"}
+* Twitch: [sudomaze](https://twitch.tv/sudomaze){:target="_blank"}
 * goodreads: [sudomaze](https://goodreads.com/sudomaze){:target="_blank"}
 * MyAnimeList: [sudomaze](https://myanimelist.net/profile/sudomaze){:target="_blank"}
 
@@ -18,5 +19,5 @@ order: 4
 * On LinkedIn, [sending a message](https://linkedin.com/in/sudomaze){:target="_blank"}
 * Over e-mail at **sudomaze**(at)**gmail**(dot)**com**
 
-
-*This page was inspired by [Gergely Orosz' page](https://blog.pragmaticengineer.com/scoop/)*
+---
+*This page was inspired by [Gergely Orosz](https://blog.pragmaticengineer.com/scoop/) and [Xe Iaso](https://xeiaso.net/contact).*

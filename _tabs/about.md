@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: About
 icon: iconfont icon-qzone
-order: 5
+order: 1
 ---
 
 ## Background
@@ -71,3 +71,7 @@ Things Mazen wants to do before he dies. Please let him know if you have any rec
 17. [ ] Start a company
 18. [ ] Start an non-profit organization
 19. [ ] Program/write every day for a year
+
+
+---
+*This page was inspired by [Chip Huyen](https://huyenchip.com/).*

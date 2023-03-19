@@ -43,8 +43,8 @@ linkedin:
 # myanimelist:
 #   username: sudomaze
 
-# I am using Notion page for my weekly logs
-weeklylogs:
+# I am using Notion page
+notion:
   username: sudomaze
 
 goodreads:
