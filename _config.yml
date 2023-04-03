@@ -27,7 +27,7 @@ description: >-                        # Used by seo meta and atom feeds
   Personal blog of Mazen Alotaibi
 
 # Fill in the protocol and domain name of your website, for example, 'https://username.github.io'
-url: 'https://sudomaze.dev'
+url: 'https://ma7.dev'
 
 author: Mazen Alotaibi    # full name
 
@@ -54,7 +54,7 @@ social:
   email: sudomaze@gmail.com             # email address
   links:
     # The first link will be the copyright owner's link
-    - https://sudomaze.dev/
+    - https://ma7.dev/
     # - https://twitter.com/sudomaze      #twitter homepage
     - https://github.com/sudomaze       # Github homepage
     # uncomment to add more links
