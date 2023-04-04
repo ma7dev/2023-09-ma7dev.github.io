@@ -8,15 +8,15 @@ order: 4
 
 ## Follow Me
 
-* Github: [sudomaze](https://github.com/sudomaze){:target="_blank"}
-* LinkedIn: [Mazen Alotaibi](https://linkedin.com/in/sudomaze){:target="_blank"}
-* Twitch: [sudomaze](https://twitch.tv/sudomaze){:target="_blank"}
-* goodreads: [sudomaze](https://goodreads.com/sudomaze){:target="_blank"}
-* MyAnimeList: [sudomaze](https://myanimelist.net/profile/sudomaze){:target="_blank"}
+* Github: [ma7dev](https://github.com/ma7dev){:target="_blank"}
+* LinkedIn: [Mazen Alotaibi](https://linkedin.com/in/ma7dev){:target="_blank"}
+* Twitch: [ma7dev](https://twitch.tv/ma7dev){:target="_blank"}
+* goodreads: [ma7dev](https://goodreads.com/ma7dev){:target="_blank"}
+* MyAnimeList: [ma7dev](https://myanimelist.net/profile/ma7dev){:target="_blank"}
 
 ## Contact Me
 
-* On LinkedIn, [sending a message](https://linkedin.com/in/sudomaze){:target="_blank"}
+* On LinkedIn, [sending a message](https://linkedin.com/in/ma7dev){:target="_blank"}
 * Over e-mail at **sudomaze**(at)**gmail**(dot)**com**
 
 ---

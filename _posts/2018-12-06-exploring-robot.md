@@ -154,7 +154,7 @@ This algorithm resulted in full exploration of the robot's environment with a re
 The algorithm should use an A* search in order to find the nearest waypoints instead of using euclidean distance. This should make the exploration time faster since it would travel through fully explored areas less often in order to reach new locations. Computationally expensive functions (such as A*) could be rewritten in C++ in order to cut down on computational cost. The robot's policy for getting unstuck could also be improved. Currently we assume that the robot gets stuck, it is facing a wall and can therefor get unstuck by backing up enough. However, it is not always the case that the wall is in front of the robot, and backing up could end up moving the robot into a wall. Instead, a better policy would be to turn and move away from the closest wall whenever the robot is stuck.
 
 ## Setup
-* Download the file ([source code](https://github.com/sudomaze/exploring-robot))
+* Download the file ([source code](https://github.com/ma7dev/exploring-robot))
 * Unzip the file into the \catkin_ws\src directory
 * In \catkin_ws, run this command to build
 
@@ -193,5 +193,5 @@ roslaunch src/nav_bundle/launch/nav_bundle.launch
 ## Contributors
 
 * Lucas Frey - [lcsfrey](https://github.com/lcsfrey)
-* Mazen Alotaibi - [sudomaze](https://github.com/sudomaze)
+* Mazen Alotaibi - [ma7dev](https://github.com/ma7dev)
 * Daniel Boreham

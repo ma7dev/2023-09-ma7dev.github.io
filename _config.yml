@@ -19,7 +19,7 @@ timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: sudomaze       # main title
+title: ma7dev       # main title
 
 tagline: thinking out loud   # subtitle
 
@@ -32,34 +32,34 @@ url: 'https://ma7.dev'
 author: Mazen Alotaibi    # full name
 
 github:
-  username: sudomaze
+  username: ma7dev
 
 linkedin:
-  username: sudomaze     # Github username
+  username: ma7dev     # Github username
 
 # twitter:
-#   username: sudomaze       # Twitter username
+#   username: ma7dev       # Twitter username
 
 # myanimelist:
-#   username: sudomaze
+#   username: ma7dev
 
 # I am using Notion page
 notion:
-  username: sudomaze
+  username: ma7dev
 
 goodreads:
-  username: sudomaze
+  username: ma7dev
 social:
   name: Mazen Alotaibi                  # will appear as the copyright holder in the footer
   email: sudomaze@gmail.com             # email address
   links:
     # The first link will be the copyright owner's link
     - https://ma7.dev/
-    # - https://twitter.com/sudomaze      #twitter homepage
-    - https://github.com/sudomaze       # Github homepage
+    # - https://twitter.com/ma7dev      #twitter homepage
+    - https://github.com/ma7dev       # Github homepage
     # uncomment to add more links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/sudomaze
+    - https://www.linkedin.com/in/ma7dev
 
 google_site_verification:       # fill in your verification string
 
