@@ -6,15 +6,15 @@ icon: bi bi-stack
 order: 4
 ---
 
-<img src="https://media1.giphy.com/media/fVeAI9dyD5ssIFyOyM/giphy.gif?cid=ecf05e4748wgae5cn0f5wcs1anttvjmy43y2a6zlrba63dd9&rid=giphy.gif&ct=g">
-
-I am working on it.
-
 ## Software Development
 ### Programming Languages
-* Simple Scripts: [Bash](https://www.gnu.org/software/bash/)
-* Building Software Projects and Prototyping: [Python](https://www.python.org/)
-* Web Development: [JavaScript]()
+* Simple Scripts (e.g. checking logs, running commands, etc.): [Bash](https://www.gnu.org/software/bash/)
+* Building Software Projects: [Python](https://www.python.org/)
+* Web Development: [JavaScript](https://www.javascript.com/)
+
+
+### Project Development
+* Packaging software:  [Apptainer](https://apptainer.org/) for cluster packages and [Docker](https://www.docker.com/) for others
 
 ### Python Development
 #### Project Components
@@ -22,7 +22,6 @@ I am working on it.
 * Package Management: [poetry](https://python-poetry.org/)
 * Unit tests framework: [pytest](https://docs.pytest.org/en/7.2.x/)
 * Managing and Maintaining pre-commit hooks: [pre-commit](https://pre-commit.com/)
-* Packaging software: [Docker](https://www.docker.com/)
 * Interactive Notebooks: [Jupyter](https://jupyter.org/)
 
 
@@ -35,24 +34,24 @@ I am working on it.
 * Rich text and beautiful formatting: [rich](https://github.com/Textualize/rich)
 * Logging framework: [loguru](https://github.com/Delgan/loguru)
 
-### Machine Leanring and Artificial Intelligence
-#### Scientific Computing
-* [NumPy](https://numpy.org/)
-* [OpenCV](https://opencv.org/)
-* [matplotlib](https://matplotlib.org/)
+#### Machine Leanring and Artificial Intelligence
 
-#### Tabular Data
-* Data Manipulation and Analysis: [pandas](https://pandas.pydata.org/)
-
-#### Deep Learning
-* Deep Learning Framework: [PyTorch](https://pytorch.org/)
+* Matrix Operations: [NumPy](https://numpy.org/)
+* Image Manipulation: [OpenCV](https://opencv.org/), [Pillow](https://pillow.readthedocs.io/en/stable/), and [torchvision](https://pytorch.org/vision/stable/index.html)
+* Visualization: [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/)
+* Tabular Data Manipulation and Analysis: [pandas](https://pandas.pydata.org/)
+* Machine Learning Frameworks: [sklearn](https://scikit-learn.org/stable/)
+* Deep Learning Frameworks: [PyTorch](https://pytorch.org/) ❤️‍🔥 and [HuggingFace](https://huggingface.co) 🤗
 * Training Procedure Wrapper: [PyTorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/)
-* Track training DL models and reporting: [WandB](https://wandb.ai/site)
+* Experiment Tracking and Reporting: [W&B](https://wandb.ai/site)
+* Models and Dataset Versioning: [HuggingFace Hub](https://huggingface.co/docs/hub/index) for Deep Learning and [DVC](https://dvc.org/) for Machine Learning
+* Deployment: [Gradio](https://gradio.app/) for demoing ML/DL models and [Streamlit](https://streamlit.io/) for more general apps
 
-##  Programs
+
+##  Programs that I use
 ### General
 * Cloud File Storage Service: [Google Drive](https://www.google.com/drive/)
-* Calendar: [Google Calendar](https://www.google.com/calendar)
+* Calendar: [Google Calendar](https://www.google.com/calendar) for setting up expected schedule for the week and [morgen](https://www.morgen.so/) for daily planning and execution
 * Browser: [Chrome](https://www.google.com/chrome/)
 * Bookmarker, Project Management, and General Writing: [Notion](https://www.notion.so/)
 * Knowledge Management: [Obsidian](https://obsidian.md/)
@@ -62,10 +61,12 @@ I am working on it.
 * Text-editor: [VS Code](https://code.visualstudio.com/)
 * Text-editor within Terminal: [Vim](https://www.vim.org/)
 * Terminal: [terminator](https://gnometerminator.blogspot.com/p/introduction.html)
-* Research Paper Manager: [Zotero](https://www.zotero.org/)
 
 ### Research
 * Research Paper Manager: [Zotero](https://www.zotero.org/)
+* Paper Tracking: [Notion](notion.so)
+* Note-Taking on iPad: [OneNote]() for annotating on PDF and [GoodNotes]() for writing notes from scratch
+
 
 ### Personal
 * Todos Manager: [Todoist](https://todoist.com/)

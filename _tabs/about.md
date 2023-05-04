@@ -94,4 +94,4 @@ Things Mazen wants to do before he dies. Please let him know if you have any rec
 
 
 ---
-*This page was inspired by [Chip Huyen](https://huyenchip.com/).*
+*This page was inspired by [Chip Huyen](https://huyenchip.com/) and [Anas Mazouni (stormix.co)](https://stormix.co/).*
