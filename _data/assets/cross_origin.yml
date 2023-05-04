@@ -71,3 +71,7 @@ pseudocode:
 katex:
   css: https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.css
   js: https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.js
+
+timesheet:
+  css: https://cdn.jsdelivr.net/gh/sbstjn/timesheet.js@master/dist/timesheet.min.css
+  js: https://cdn.jsdelivr.net/gh/sbstjn/timesheet.js@master/dist/timesheet.min.js

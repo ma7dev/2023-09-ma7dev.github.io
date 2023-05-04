@@ -60,3 +60,7 @@ pseudocode:
 katex:
   css: /assets/lib/katex/katex.min.css
   js: /assets/lib/katex/katex.min.js
+
+timesheet:
+  css: /assets/lib/timesheetjs/dist/timesheet.min.css
+  js: /assets/lib/timesheetjs/dist/timesheet.min.js

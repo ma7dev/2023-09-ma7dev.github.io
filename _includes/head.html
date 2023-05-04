@@ -97,6 +97,7 @@
     <!-- image lazy-loading & popup & clipboard -->
     {% assign _urls = site.data.assets[origin].katex.js
         | append: ',' | append: site.data.assets[origin].pseudocode.js
+        | append: ',' | append: site.data.assets[origin].timesheet.js
     %}
 
     {% include jsdelivr-combine.html urls=_urls %}
@@ -115,7 +116,7 @@
   <link rel="stylesheet" href="{{ css }}">
   {% endfor %}
   {% endif %}
-  
+
   <!-- Fira Code -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tonsky/FiraCode@5.2/distr/fira_code.css">
 
@@ -130,6 +131,8 @@
     <link rel="stylesheet" href="{{ site.data.assets[origin].katex.css }}">
     <!-- pseudocode -->
     <link rel="stylesheet" href="{{ site.data.assets[origin].pseudocode.css }}">
+    <!-- timesheet -->
+    <link rel="stylesheet" href="{{ site.data.assets[origin].timesheet.css }}">
   {% endif %}
 
   <!-- JavaScript -->

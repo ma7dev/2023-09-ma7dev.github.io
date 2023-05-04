@@ -10,6 +10,26 @@ order: 1
 
 Currently, Mazen is a Faculty Research Assistant working on Machine Common Sense project supervised by [Dr. Alan Fern](https://eecs.oregonstate.edu/people/fern-alan). He graduated with a Masters of Science (MSc) in Artificial Intelligence under the supervision of [Dr. Fuxin Li](http://web.engr.oregonstate.edu/~lif/) at Deep Machine Vision (DMV) in Oregon State University (OSU). He worked at [the Center for Genome Research & Bio-computing](https://cgrb.oregonstate.edu/) (CGRB) as a Data Scientist. He graduated from Oregon State University with a Bachelor of Science (BSc) degree in Computer Science Applied in Artificial Intelligence; with a minor in Actuarial Science. He worked at CGRB as a Lead GPU Computational Researcher during his senior year at OSU. He was the Vice-President of OSU ML/AI Club (known as [OSU AI Club](https://osuai.club) now) for 2017-2018 & 2018-2019.
 
+## Timeline
+
+<div id="timesheet"></div>
+
+<script>
+  new Timesheet('timesheet', 2015, 2024, [
+  ['09/2015', '06/2019', 'Bacholars', 'dolor'],
+  ['09/2019', '06/2019', 'Lead Undergraduate GPU Researcher', 'lorem'],
+  ['10/2019', '06/2020', 'Data Scientist', 'ipsum'],
+  ['09/2020', '08/2022', 'Masters', 'dolor'],
+  ['09/2020', '06/2021', 'Graduate Teaching Assistant', 'lorem'],
+  ['06/2021', '01/2022', 'Graduate Research Assistant', 'lorem'],
+  ['01/2022', '03/2022', 'Graduate Teaching Assistant', 'lorem'],
+  ['03/2022', '06/2022', 'Lead Graduate Teaching Assistant', 'lorem'],
+  ['03/2022', '08/2022', 'Graduate Research Assistant', 'lorem'],
+  ['10/2022', '10/2023', 'Faculty Research Assistant', 'ipsum'],
+]);
+</script>
+
+
 ## Grduate School Experience and Studies
 
 ### Teaching/Research Assistant
