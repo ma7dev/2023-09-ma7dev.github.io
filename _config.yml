@@ -24,7 +24,7 @@ title: ma7dev       # main title
 tagline: thinking out loud   # subtitle
 
 description: >-                        # Used by seo meta and atom feeds
-  Personal blog of Mazen Alotaibi
+  Personal website of Mazen Alotaibi
 
 # Fill in the protocol and domain name of your website, for example, 'https://username.github.io'
 url: 'https://ma7.dev'
@@ -37,16 +37,15 @@ github:
 linkedin:
   username: ma7dev     # Github username
 
-# twitter:
-#   username: ma7dev       # Twitter username
-
-# myanimelist:
-#   username: ma7dev
-
-# I am using Notion page
 notion:
   username: ma7dev
 
+twitter:
+  username: ma7dev
+twitch:
+  username: ma7dev
+youtube:
+  username: ma7dev
 goodreads:
   username: ma7dev
 social:
@@ -55,10 +54,8 @@ social:
   links:
     # The first link will be the copyright owner's link
     - https://ma7.dev/
-    # - https://twitter.com/ma7dev      #twitter homepage
+    - https://twitter.com/ma7dev      #twitter homepage
     - https://github.com/ma7dev       # Github homepage
-    # uncomment to add more links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/ma7dev
 
 google_site_verification:       # fill in your verification string

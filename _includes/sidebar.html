@@ -75,6 +75,10 @@
     https://myanimelist.net/profile/{{ site.myanimelist.username }}
     {%- elsif entry.type == 'notion' -%}
     https://notion.ma7.dev
+    {%- elsif entry.type == 'youtube' -%}
+    https://youtube.com/@{{ site.youtube.username }}
+    {%- elsif entry.type == 'twitch' -%}
+    https://twitch.tv/{{ site.twitch.username }}
     {%- elsif entry.type == 'goodreads' -%}
     https://goodreads.com/{{ site.goodreads.username }}
     {%- elsif entry.type == 'email' -%}
