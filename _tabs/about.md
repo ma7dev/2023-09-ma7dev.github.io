@@ -17,7 +17,7 @@ Currently, Mazen is a Faculty Research Assistant working on Machine Common Sense
 <script>
   new Timesheet('timesheet', 2015, 2024, [
   ['09/2015', '06/2019', 'Bacholars', 'dolor'],
-  ['09/2019', '06/2019', 'Lead Undergraduate GPU Researcher', 'lorem'],
+  ['09/2018', '06/2019', 'Lead Undergraduate GPU Researcher', 'lorem'],
   ['10/2019', '06/2020', 'Data Scientist', 'ipsum'],
   ['09/2020', '08/2022', 'Masters', 'dolor'],
   ['09/2020', '06/2021', 'Graduate Teaching Assistant', 'lorem'],
