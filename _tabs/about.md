@@ -46,7 +46,7 @@ Currently, Mazen is a Faculty Research Assistant working on Machine Common Sense
   - Winter: **Teaching Assistant** - *Analysis of Algorithms (CS 325)*
   - Fall: **Teaching Assistant** - *Introduction to Databases (CS 340)*
 
-### Courses Completed
+### Completed Courses
 - 2021-2022:
   - Spring
     - Social and Ethical Issues in Artificial Intelligence (PHL 546)
